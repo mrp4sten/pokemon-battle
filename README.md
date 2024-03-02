@@ -9,6 +9,7 @@
 ### PIP
 
 - pexpect
+- requests
 
 ## User stories based on Final Project requirements
 
