@@ -1,5 +1,15 @@
 # Final Project from Mastermind Python Course by Nate Gentile
 
+## Dependencies
+
+### External
+
+- Gum <https://github.com/charmbracelet/gum>
+
+### PIP
+
+- pexpect
+
 ## User stories based on Final Project requirements
 
 - The user can see a pokemon catalog with 150 basic pokemons availabes
